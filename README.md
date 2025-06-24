@@ -74,7 +74,7 @@ const abishek = {
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=ALLURIABISHEK&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALLURIABISHEK&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
