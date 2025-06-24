@@ -8,151 +8,102 @@
 
 ---
 
-## 🎯 **About Me**
+## � **About Me**
 
 ```typescript
 const abishek = {
+    pronouns: "He/Him",
     name: "Alluri Abishek Kumar",
     role: "Software Developer & Front-End Specialist",
     location: "Andhra Pradesh, India 🇮🇳",
     education: "MCA Final Year @ Kristu Jayanti College",
-    currentProject: "Talk2Data - Voice-Assisted Analytics Interface",
+    currentFocus: "Voice-Assisted AI & Intelligent Interfaces",
     passion: ["AI Development", "Web Interfaces", "Smart Solutions"],
-    futureGoal: "Building innovative tech solutions that make a difference",
-    secretDream: "Writing a novel titled '84>96' 📚"
+    philosophy: "Code should solve problems, not create them",
+    funFact: "Believes the best code is written at 2 AM with coffee"
 };
-```
-
 <div align="center">
+🌟 Flagship Project
+Talk2Data - Voice-Powered Analytics Revolution
 
-### 🌟 **Currently Working On**
-**Talk2Data** - *A revolutionary voice-assisted analytics interface*
-> *Eliminating complex queries with plain English interactions*  
-> *Powered by Gemini NLP, MongoDB, and Flask*
+"Transforming data interaction through natural language"
+Tech Stack: Gemini NLP • MongoDB • Flask • React
 
 </div>
-
----
-
-## 🛠️ **Tech Arsenal**
-
+🛠️ Tech Stack
 <div align="center">
+Core Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-### **Programming Languages**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+AI/ML Stack
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
+https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FF6F00?style=for-the-badge
 
-### **Frameworks & Libraries**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FF6F00?style=for-the-badge)
+Databases & Cloud
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
 
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Dev Tools
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
 </div>
-
----
-
-## 📊 **GitHub Analytics**
-
+📊 GitHub Analytics
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;"><!-- Stats Card --><a href="https://github.com/ALLURIABISHEK"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALLURIABISHEK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/> </a><!-- Top Languages --><a href="https://github.com/ALLURIABISHEK"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLURIABISHEK&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/> </a><!-- Streak Stats --><a href="https://github.com/ALLURIABISHEK"> <img height="180em" src="https://streak-stats.demolab.com?user=ALLURIABISHEK&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/> </a><!-- Activity Graph --><a href="https://github.com/ALLURIABISHEK"> <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ALLURIABISHEK&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/> </a></div>
+🏆 Achievements
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALLURIABISHEK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLURIABISHEK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+🏅 Certification	📜 Description
+Microsoft Azure Fundamentals	Cloud computing fundamentals
+Infosys Java Certification	Advanced Java programming
+Microsoft Backend Foundations	Backend development principles
+AI Foundations by Infosys	Core AI/ML concepts
+</div>
+🚀 Featured Projects
+<div align="center">
+🤖 Talk2Data (Coming Soon)
+Voice-powered analytics interface using Gemini NLP
+
+📚 Omni Summarizer
+AI-powered document summarization tool
+
+🎭 84>96 Novel Concept
+Experimental narrative coding project
 
 </div>
-
+🌐 Connect With Me
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALLURIABISHEK&theme=dark)](https://git.io/streak-stats)
+https://img.shields.io/badge/Email-24mcab07@kristujayanti.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-alluri--abishek--kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
 
 </div>
-
+💡 Coding Philosophy
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ALLURIABISHEK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
+python
+def coding_philosophy():
+    principles = {
+        "clean_code": "Write code as if the next maintainer is a psychopath who knows where you live",
+        "testing": "If it's not tested, it's broken",
+        "learning": "The day you stop learning is the day you become obsolete",
+        "innovation": "Don't just solve problems - redefine them"
+    }
+    return principles
 </div>
-
----
-
-## 🏆 **Achievements & Certifications**
-
 <div align="center">
+https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Let's%2520Build%2520Something%2520Amazing!&fontSize=24&fontColor=ffffff
 
-| 🎓 **Certification** | 🏛️ **Issuer** |
-|:---:|:---:|
-| Azure Fundamentals (AZ-900) | Microsoft |
-| Programming in Java | Infosys |
-| Foundations of Coding Backend | Coursera & Microsoft |
-| Introduction to AI | Infosys |
+Visitors Count
+https://komarev.com/ghpvc/?username=ALLURIABISHEK&label=Profile%2520Views&color=00D9FF&style=flat-square
 
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-### 🤖 **Talk2Data** *(Coming Soon)*
-*Smart voice-assisted analytics interface powered by Gemini NLP*
-
-### 📝 **Omni Summarizer**
-*Advanced text summarization tool with AI capabilities*
-
-</div>
-
----
-
-## 🌐 **Connect With Me**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24mcab07@kristujayanti.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/alluri-abishek-kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-abi.onrender.com)
-
-</div>
-
----
-
-## 💭 **Fun Facts**
-
-<div align="center">
-
-```javascript
-const funFacts = {
-    currentlyReading: "Technical documentation by day, novel ideas by night",
-    dreamProject: "Writing a love novel titled '84>96'",
-    motto: "Code with passion, create with purpose",
-    favoriteTech: "Anything that makes life easier",
-    codingStyle: "Clean, efficient, and always learning"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **"Turning Ideas Into Digital Reality"**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-**Thanks for visiting! Let's build something amazing together** 🚀
-
-<img src="https://komarev.com/ghpvc/?username=ALLURIABISHEK&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-</div>
+</div> ```
