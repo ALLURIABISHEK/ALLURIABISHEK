@@ -161,7 +161,7 @@ console.log("Welcome to my digital space! 🌟");
 - 🚀 **Mission**: Democratizing data analytics through voice interaction
 
 ### 📝 **Omni Summarizer**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLURIABISHEK&repo=OmniSummarizer&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ALLURIABISHEK/OmniSummarizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLURIABISHEK&repo=OmniSummarizer&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ALLURIABISHEK/OMNI_SUMMARIZER)
 
 **Advanced AI-Powered Text Summarization Tool**
 - 🤖 **Machine Learning**: Advanced NLP algorithms
@@ -249,7 +249,7 @@ print(me.current_focus())
 
 <div align="center">
 
-### 🎯 **2024 Goals**
+### 🎯 **2025 Goals**
 - 🤖 **Complete Talk2Data MVP**
 - 📈 **Contribute to 10+ Open Source Projects**
 - 🎓 **Complete MCA with Excellence**
