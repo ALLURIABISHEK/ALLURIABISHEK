@@ -14,7 +14,7 @@
 
 <div align="center">
   
-[![Profile Views](https://visitcount.itsvg.in/api?id=ALLURIABISHEK&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=ALLURIABISHEK&color=00F5FF&style=flat-square&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ALLURIABISHEK?label=Followers&style=social)](https://github.com/ALLURIABISHEK)
 [![GitHub stars](https://img.shields.io/github/stars/ALLURIABISHEK?label=Stars&style=social)](https://github.com/ALLURIABISHEK)
 
@@ -110,7 +110,7 @@ console.log("Welcome to my digital space! 🌟");
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ALLURIABISHEK/ALLURIABISHEK/output/github-contribution-grid-snake-dark.svg)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ALLURIABISHEK&theme=tokyonight)
 
 </div>
 
@@ -161,7 +161,7 @@ console.log("Welcome to my digital space! 🌟");
 - 🚀 **Mission**: Democratizing data analytics through voice interaction
 
 ### 📝 **Omni Summarizer**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLURIABISHEK&repo=OmniSummarizer&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ALLURIABISHEK/OMNI_SUMMARIZER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLURIABISHEK&repo=OMNI_SUMMARIZER&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ALLURIABISHEK/OMNI_SUMMARIZER)
 
 **Advanced AI-Powered Text Summarization Tool**
 - 🤖 **Machine Learning**: Advanced NLP algorithms
@@ -249,7 +249,7 @@ print(me.current_focus())
 
 <div align="center">
 
-### 🎯 **2025 Goals**
+### 🎯 **2024 Goals**
 - 🤖 **Complete Talk2Data MVP**
 - 📈 **Contribute to 10+ Open Source Projects**
 - 🎓 **Complete MCA with Excellence**
