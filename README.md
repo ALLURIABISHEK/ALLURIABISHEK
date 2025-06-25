@@ -29,7 +29,7 @@
 ```javascript
 const abishek = {
     name: "Alluri Abishek Kumar",
-    role: ["Software Developer", "Front-End Specialist", "AI Enthusiast"],
+    role: ["Software Developer", "Front-End Developer", "AI Enthusiast"],
     location: "Andhra Pradesh, India 🇮🇳",
     education: "MCA Final Year @ Kristu Jayanti College",
     currentProject: "Talk2Data - Revolutionary Voice Analytics",
