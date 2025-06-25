@@ -146,17 +146,12 @@ console.log("Welcome to my digital space! 🌟");
 </div>
 
 ---
-
 ## 🌟 **Featured Projects**
 
 <div align="center">
 
-### 🎤 **Talk2Data** *(Coming Soon!)*
-<div style="border: 2px solid #00F5FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); margin: 10px 0;">
-  <h4 align="center">🚀 <strong>Coming Soon!</strong> 🚀</h4>
-  <p align="center"><em>Revolutionary Voice-Assisted Analytics Platform</em></p>
-  <p align="center">🎯 <strong>Stay Tuned for the Launch!</strong> 🎯</p>
-</div>
+### 🎤 **Talk2Data**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLURIABISHEK&repo=Talk2Data&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ALLURIABISHEK/Talk2Data)
 
 **Revolutionary Voice-Assisted Analytics Platform**
 - 🧠 **AI-Powered**: Gemini NLP integration
