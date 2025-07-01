@@ -248,13 +248,15 @@ print(me.current_focus())
 
 <div align="center">
 
-### 🎯 **2024 Goals**
+### 🎯 **2025 Goals**
 - 🤖 **Complete Talk2Data MVP**
 - 📈 **Contribute to 10+ Open Source Projects**
 - 🎓 **Complete MCA with Excellence**
-- 📚 **Finish writing '84>96' novel**
 - 🚀 **Launch Personal Tech Blog**
 - 🌟 **Build 5 Innovative Projects**
+
+### 🎯 **2027 Goals**
+- 📚 **Finish writing '84>96' novel**
 
 </div>
 
