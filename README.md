@@ -43,13 +43,7 @@ const abishek = {
 console.log("Welcome to my digital space! 🌟");
 ```
 
-### 🌟 **Current Focus: Talk2Data**
-> **🎤 Voice-Assisted Analytics Interface**  
-> *Revolutionizing data interaction with natural language processing*  
-> **Tech Stack:** Gemini NLP • MongoDB • Flask • AI/ML  
-> **Mission:** Eliminating complex queries through intuitive voice commands
 
----
 
 ## 🛠️ **Tech Stack & Tools**
 
